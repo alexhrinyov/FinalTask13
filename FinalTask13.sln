@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "m13p1", "m13p1\m13p1.csproj", "{243C13B3-EC79-4E59-8913-8804E0840FCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "m13p2", "m13p2\m13p2.csproj", "{67118EE2-9E7F-4A8E-9878-07E25F9C3808}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{243C13B3-EC79-4E59-8913-8804E0840FCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{243C13B3-EC79-4E59-8913-8804E0840FCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{243C13B3-EC79-4E59-8913-8804E0840FCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{243C13B3-EC79-4E59-8913-8804E0840FCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67118EE2-9E7F-4A8E-9878-07E25F9C3808}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67118EE2-9E7F-4A8E-9878-07E25F9C3808}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67118EE2-9E7F-4A8E-9878-07E25F9C3808}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67118EE2-9E7F-4A8E-9878-07E25F9C3808}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E566F6C5-01BB-4376-8ADA-D6F49FB755C4}
+	EndGlobalSection
+EndGlobal
